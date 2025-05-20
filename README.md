@@ -10,3 +10,6 @@
 ![Image](https://github.com/user-attachments/assets/b077b12c-01b2-4398-833d-048cf5336343)
 出力できました(パソコン内にSTLファイルが作成されていると思います)
 ![スクリーンショット 2025-05-20 204119](https://github.com/user-attachments/assets/6ab74eb4-025f-4399-ae65-b22ac4bbae89)
+ただ，このSTLファイルを3Dプリンターに読む込ませるだけでは、3Dプリンターで印刷することはできません。
+「スライサーソフト」というものを使い、3Dプリンターが3Dデータを読み込めるよう、変換する必要があり、スライサーソフトで得られる「Gコード」によって、はじめて3Dプリンティングが可能になります。
+部室にある3Dプリンターの種類は[Creality K1](https://www.creality.com/jp/products/creality-k1-3d-printer) です。
