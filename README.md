@@ -4,7 +4,9 @@
 もし，3Dプリンターが壊れた場合は電装の班の人に言うようにしてください
 ![Image](https://github.com/user-attachments/assets/00366d2b-4866-4f94-afe1-720174874db3)
 
-
+3Dプリンターとは3DCADの設計データ（STLデータ）をもとにして、スライスされた2次元の層を1枚ずつ積み重ねていくことによって、立体モデルを製作する機械のことを指します。
+ここから実際に3Dプリンターで3Dのデータを出力するまでの手法をやっていきます
+まず，CADの3DデータからSTLデータ(設計データ)を出力していきます。(今回はfusion360を使って行っていきます)
 ![Image](https://github.com/user-attachments/assets/b077b12c-01b2-4398-833d-048cf5336343)
-
-
+出力できました(パソコン内にSTLファイルが作成されていると思います)
+![スクリーンショット 2025-05-20 204119](https://github.com/user-attachments/assets/6ab74eb4-025f-4399-ae65-b22ac4bbae89)
